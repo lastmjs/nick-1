@@ -1,0 +1,14 @@
+{
+  "name": "nick-1",
+  "version": "0.0.0",
+  "description": "My first server-hosted website",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
